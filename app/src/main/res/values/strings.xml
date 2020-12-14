@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Heart</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="device_scan_fragment_label">les dévices</string>
+    <string name="gatt_client_fragment_label">le client GATT</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="unknown_device">Device inconnu</string>
+    <string name="ble_not_supported">BLE n\'est pas supporté</string>
+    <string name="bt_ads_not_supported">Bluetooth Advertisements are not supported</string>
+    <string name="bt_not_enabled_leaving">BLE pas activé. On quitte l\'application</string>
+    <string name="already_scanning">Scanning  déjà en cours</string>
+    <string name="scan_start_toast">Début du scanning</string>
+    <string name="seconds">secondes</string>
+    <string name="label_device_address">Adresse mac</string>
+    <string name="label_device_name">Nom device</string>
+    <string name="label_state">Statut</string>
+    <string name="disconnected">Déconnecté</string>
+    <string name="no_data">Aucune donnée disponible</string>
+    <string name="Led_ToggleBtn">Off-On</string>
+    <string name="connected">Connecté</string>
+</resources>
